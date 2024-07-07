@@ -1,0 +1,10 @@
+C:\Users\Powergen\source\repos\Fibonacci Sequence\obj\Debug\Fibonacci Sequence.csproj.AssemblyReference.cache
+C:\Users\Powergen\source\repos\Fibonacci Sequence\obj\Debug\Fibonacci_Sequence.Form1.resources
+C:\Users\Powergen\source\repos\Fibonacci Sequence\obj\Debug\Fibonacci_Sequence.Properties.Resources.resources
+C:\Users\Powergen\source\repos\Fibonacci Sequence\obj\Debug\Fibonacci Sequence.csproj.GenerateResource.cache
+C:\Users\Powergen\source\repos\Fibonacci Sequence\obj\Debug\Fibonacci Sequence.csproj.CoreCompileInputs.cache
+C:\Users\Powergen\source\repos\Fibonacci Sequence\bin\Debug\Fibonacci Sequence.exe.config
+C:\Users\Powergen\source\repos\Fibonacci Sequence\bin\Debug\Fibonacci Sequence.exe
+C:\Users\Powergen\source\repos\Fibonacci Sequence\bin\Debug\Fibonacci Sequence.pdb
+C:\Users\Powergen\source\repos\Fibonacci Sequence\obj\Debug\Fibonacci Sequence.exe
+C:\Users\Powergen\source\repos\Fibonacci Sequence\obj\Debug\Fibonacci Sequence.pdb
